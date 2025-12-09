@@ -1,0 +1,6 @@
+backend/node_modules/
+frontend/node_modules/
+backend/uploads/
+backend/database.sqlite
+frontend/dist/
+*.log
